@@ -14,7 +14,6 @@ This project is focused on monitoring and evaluating Large Language Models (LLMs
   - [Scenario 2: Evaluating Existing Responses](#scenario-2-evaluating-existing-responses)
 - [Metrics Explained](#metrics-explained)
 - [MLflow UI Dashboard](#mlflow-ui-dashboard)
-- [Adding Screenshots](#adding-screenshots)
 <br><br>
 ## Getting Started
 
